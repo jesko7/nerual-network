@@ -1,0 +1,2383 @@
+{
+    "items":[
+        {
+            "INK_SACK:3": "cocoa beans"
+        },
+        {
+            "CORRUPTED_BAIT": "corrupted bait"
+        },
+        {
+            "INK_SACK:4": "lapis lazuli"
+        },
+        {
+            "TARANTULA_WEB": "tarantula web"
+        },
+        {
+            "DARK_ORB": "dark orb"
+        },
+        {
+            "ESSENCE_DRAGON": "essence dragon"
+        },
+        {
+            "GOBLIN_EGG_YELLOW": "goblin egg yellow"
+        },
+        {
+            "PROTECTOR_FRAGMENT": "protector fragment"
+        },
+        {
+            "ROCK_GEMSTONE": "rock gemstone"
+        },
+        {
+            "DIAMOND": "diamond"
+        },
+        {
+            "COBBLESTONE": "cobblestone"
+        },
+        {
+            "PERFECT_RUBY_GEM": "perfect ruby gem"
+        },
+        {
+            "END_STONE_SHULKER": "end stone shulker"
+        },
+        {
+            "ENDER_MONOCLE": "ender monocle"
+        },
+        {
+            "REFINED_DIAMOND": "refined diamond"
+        },
+        {
+            "HAZMAT_ENDERMAN": "hazmat enderman"
+        },
+        {
+            "FLAWED_OPAL_GEM": "flawed opal gem"
+        },
+        {
+            "LUXURIOUS_SPOOL": "luxurious spool"
+        },
+        {
+            "PORK": "pork"
+        },
+        {
+            "LOG_2:1": "dark oak wood"
+        },
+        {
+            "JERRY_BOX_GOLDEN": "jerry box golden"
+        },
+        {
+            "DERELICT_ASHE": "derelict ashe"
+        },
+        {
+            "SAND": "sand"
+        },
+        {
+            "ANCIENT_CLAW": "ancient claw"
+        },
+        {
+            "PLASMA_BUCKET": "plasma bucket"
+        },
+        {
+            "AMBER_MATERIAL": "amber material"
+        },
+        {
+            "CARROT_BAIT": "carrot bait"
+        },
+        {
+            "FINE_TOPAZ_GEM": "fine topaz gem"
+        },
+        {
+            "FINE_RUBY_GEM": "fine ruby gem"
+        },
+        {
+            "HAY_BLOCK": "hay block"
+        },
+        {
+            "RAW_FISH:3": "pufferfish"
+        },
+        {
+            "DIAMOND_ATOM": "diamond atom"
+        },
+        {
+            "RAW_FISH:2": "clownfish"
+        },
+        {
+            "PRECURSOR_GEAR": "precursor gear"
+        },
+        {
+            "RAW_FISH:1": "raw salmon"
+        },
+        {
+            "GOBLIN_EGG_RED": "goblin egg red"
+        },
+        {
+            "WHALE_BAIT": "whale bait"
+        },
+        {
+            "SPONGE": "sponge"
+        },
+        {
+            "FLAWLESS_TOPAZ_GEM": "flawless topaz gem"
+        },
+        {
+            "RED_SCARF": "red scarf"
+        },
+        {
+            "LOG:1": "spruce wood"
+        },
+        {
+            "TITANIUM_ORE": "titanium ore"
+        },
+        {
+            "BLUE_SHARK_TOOTH": "blue shark tooth"
+        },
+        {
+            "LOG:3": "jungle wood"
+        },
+        {
+            "CHILI_PEPPER": "chili pepper"
+        },
+        {
+            "LOG:2": "birch wood"
+        },
+        {
+            "SIL_EX": "sil ex"
+        },
+        {
+            "ONYX": "onyx"
+        },
+        {
+            "OMEGA_EGG": "omega egg"
+        },
+        {
+            "PURPLE_CANDY": "purple candy"
+        },
+        {
+            "POLISHED_PUMPKIN": "polished pumpkin"
+        },
+        {
+            "FINE_OPAL_GEM": "fine opal gem"
+        },
+        {
+            "FURBALL": "furball"
+        },
+        {
+            "ESSENCE_SPIDER": "essence spider"
+        },
+        {
+            "GLOWSTONE_DUST": "glowstone dust"
+        },
+        {
+            "PERFECT_AMETHYST_GEM": "perfect amethyst gem"
+        },
+        {
+            "IMPLOSION_SCROLL": "implosion scroll"
+        },
+        {
+            "ENDSTONE_GEODE": "endstone geode"
+        },
+        {
+            "OPTICAL_LENS": "optical lens"
+        },
+        {
+            "LAVA_WATER_ORB": "lava water orb"
+        },
+        {
+            "GOBLIN_EGG_GREEN": "goblin egg green"
+        },
+        {
+            "LIGHT_BAIT": "light bait"
+        },
+        {
+            "HOT_POTATO_BOOK": "hot potato book"
+        },
+        {
+            "CLAY_BALL": "clay"
+        },
+        {
+            "OLD_FRAGMENT": "old fragment"
+        },
+        {
+            "BEATING_HEART": "beating heart"
+        },
+        {
+            "ROUGH_AMBER_GEM": "rough amber gem"
+        },
+        {
+            "AMALGAMATED_CRIMSONITE": "amalgamated crimsonite"
+        },
+        {
+            "FINE_AMBER_GEM": "fine amber gem"
+        },
+        {
+            "ENDER_PEARL": "ender pearl"
+        },
+        {
+            "FLAWED_JADE_GEM": "flawed jade gem"
+        },
+        {
+            "TOIL_LOG": "toil log"
+        },
+        {
+            "SLUDGE_JUICE": "sludge juice"
+        },
+        {
+            "SUGAR_CANE": "sugar cane"
+        },
+        {
+            "AOTE_STONE": "aote stone"
+        },
+        {
+            "RABBIT_HIDE": "rabbit hide"
+        },
+        {
+            "DARK_BAIT": "dark bait"
+        },
+        {
+            "OBSIDIAN": "obsidian"
+        },
+        {
+            "STARFALL": "starfall"
+        },
+        {
+            "SECOND_MASTER_STAR": "second master star"
+        },
+        {
+            "ENTROPY_SUPPRESSOR": "entropy suppressor"
+        },
+        {
+            "GLOWSTONE_DUST_DISTILLATE": "glowstone dust distillate"
+        },
+        {
+            "BROWN_MUSHROOM": "brown mushroom"
+        },
+        {
+            "CARROT_ITEM": "carrot item"
+        },
+        {
+            "MOLTEN_CUBE": "molten cube"
+        },
+        {
+            "EXP_BOTTLE": "exp bottle"
+        },
+        {
+            "WATER_ORB": "water orb"
+        },
+        {
+            "INFERNO_VERTEX": "inferno vertex"
+        },
+        {
+            "FLAWED_AMETHYST_GEM": "flawed amethyst gem"
+        },
+        {
+            "PERFECT_JADE_GEM": "perfect jade gem"
+        },
+        {
+            "FOURTH_MASTER_STAR": "fourth master star"
+        },
+        {
+            "REFINED_AMBER": "refined amber"
+        },
+        {
+            "CACTUS": "cactus"
+        },
+        {
+            "BOBBIN_SCRIPTURES": "bobbin scriptures"
+        },
+        {
+            "RED_MUSHROOM": "red mushroom"
+        },
+        {
+            "GRAND_EXP_BOTTLE": "grand exp bottle"
+        },
+        {
+            "MUTTON": "mutton"
+        },
+        {
+            "SPIDER_EYE": "spider eye"
+        },
+        {
+            "JADERALD": "jaderald"
+        },
+        {
+            "PRISMARINE_CRYSTALS": "prismarine crystals"
+        },
+        {
+            "RARE_DIAMOND": "rare diamond"
+        },
+        {
+            "ICE": "ice"
+        },
+        {
+            "TIGER_SHARK_TOOTH": "tiger shark tooth"
+        },
+        {
+            "GOLDEN_TOOTH": "golden tooth"
+        },
+        {
+            "HYPER_CATALYST": "hyper catalyst"
+        },
+        {
+            "RABBIT_FOOT": "rabbit foot"
+        },
+        {
+            "REDSTONE": "redstone"
+        },
+        {
+            "SPOOKY_WATER_ORB": "spooky water orb"
+        },
+        {
+            "THE_ART_OF_WAR": "the art of war"
+        },
+        {
+            "SLIME_BALL": "slime ball"
+        },
+        {
+            "HOLY_FRAGMENT": "holy fragment"
+        },
+        {
+            "SNOW_BALL": "snow ball"
+        },
+        {
+            "FINE_JADE_GEM": "fine jade gem"
+        },
+        {
+            "FLAWED_RUBY_GEM": "flawed ruby gem"
+        },
+        {
+            "RAW_CHICKEN": "raw chicken"
+        },
+        {
+            "FLAWLESS_JASPER_GEM": "flawless jasper gem"
+        },
+        {
+            "INK_SACK": "ink sac"
+        },
+        {
+            "INFERNO_APEX": "inferno apex"
+        },
+        {
+            "TREASURITE": "treasurite"
+        },
+        {
+            "PERFECT_OPAL_GEM": "perfect opal gem"
+        },
+        {
+            "MELON": "melon"
+        },
+        {
+            "DIAMONITE": "diamonite"
+        },
+        {
+            "BONE": "bone"
+        },
+        {
+            "REVENANT_FLESH": "revenant flesh"
+        },
+        {
+            "OBSIDIAN_TABLET": "obsidian tablet"
+        },
+        {
+            "ESSENCE_WITHER": "essence wither"
+        },
+        {
+            "BLAZE_ROD": "blaze rod"
+        },
+        {
+            "YOUNG_FRAGMENT": "young fragment"
+        },
+        {
+            "REFINED_MINERAL": "refined mineral"
+        },
+        {
+            "ROUGH_RUBY_GEM": "rough ruby gem"
+        },
+        {
+            "GOBLIN_EGG_BLUE": "goblin egg blue"
+        },
+        {
+            "CATALYST": "catalyst"
+        },
+        {
+            "JERRY_STONE": "jerry stone"
+        },
+        {
+            "MOLTEN_POWDER": "molten powder"
+        },
+        {
+            "FLAWLESS_SAPPHIRE_GEM": "flawless sapphire gem"
+        },
+        {
+            "MAGMA_URCHIN": "magma urchin"
+        },
+        {
+            "JACOBS_TICKET": "jacobs ticket"
+        },
+        {
+            "ABSOLUTE_ENDER_PEARL": "absolute ender pearl"
+        },
+        {
+            "SPIKED_BAIT": "spiked bait"
+        },
+        {
+            "BLESSED_FRUIT": "blessed fruit"
+        },
+        {
+            "NULL_OVOID": "null ovoid"
+        },
+        {
+            "GOLD_INGOT": "gold ingot"
+        },
+        {
+            "SPOOKY_BAIT": "spooky bait"
+        },
+        {
+            "EMERALD": "emerald"
+        },
+        {
+            "ARACHNE_KEEPER_FRAGMENT": "arachne keeper fragment"
+        },
+        {
+            "GREEN_GIFT": "green gift"
+        },
+        {
+            "FLAWLESS_AMETHYST_GEM": "flawless amethyst gem"
+        },
+        {
+            "RED_NOSE": "red nose"
+        },
+        {
+            "PACKED_ICE": "packed ice"
+        },
+        {
+            "HAMSTER_WHEEL": "hamster wheel"
+        },
+        {
+            "MAGMA_FISH_SILVER": "magma fish silver"
+        },
+        {
+            "FLAWLESS_OPAL_GEM": "flawless opal gem"
+        },
+        {
+            "ESSENCE_UNDEAD": "essence undead"
+        },
+        {
+            "DAEDALUS_STICK": "daedalus stick"
+        },
+        {
+            "DRAGON_CLAW": "dragon claw"
+        },
+        {
+            "LUCKY_DICE": "lucky dice"
+        },
+        {
+            "FOUL_FLESH": "foul flesh"
+        },
+        {
+            "RAW_BEEF": "raw beef"
+        },
+        {
+            "ECTOPLASM": "ectoplasm"
+        },
+        {
+            "PRECIOUS_PEARL": "precious pearl"
+        },
+        {
+            "MAGMA_FISH_DIAMOND": "magma fish diamond"
+        },
+        {
+            "RABBIT": "rabbit"
+        },
+        {
+            "GRIFFIN_FEATHER": "griffin feather"
+        },
+        {
+            "SOULFLOW": "soulflow"
+        },
+        {
+            "MINNOW_BAIT": "minnow bait"
+        },
+        {
+            "WITHER_BLOOD": "wither blood"
+        },
+        {
+            "BLAZE_WAX": "blaze wax"
+        },
+        {
+            "HARD_STONE": "hard stone"
+        },
+        {
+            "FLAWLESS_JADE_GEM": "flawless jade gem"
+        },
+        {
+            "REFINED_TITANIUM": "refined titanium"
+        },
+        {
+            "SHINY_PRISM": "shiny prism"
+        },
+        {
+            "FIRST_MASTER_STAR": "first master star"
+        },
+        {
+            "FINE_JASPER_GEM": "fine jasper gem"
+        },
+        {
+            "BOOK_OF_STATS": "book of stats"
+        },
+        {
+            "HORNS_OF_TORMENT": "horns of torment"
+        },
+        {
+            "JERRY_BOX_GREEN": "jerry box green"
+        },
+        {
+            "FARMING_FOR_DUMMIES": "farming for dummies"
+        },
+        {
+            "SHADOW_WARP_SCROLL": "shadow warp scroll"
+        },
+        {
+            "FLAWED_JASPER_GEM": "flawed jasper gem"
+        },
+        {
+            "FLAWED_AMBER_GEM": "flawed amber gem"
+        },
+        {
+            "PRISMARINE_SHARD": "prismarine shard"
+        },
+        {
+            "POWER_CRYSTAL": "power crystal"
+        },
+        {
+            "WISE_FRAGMENT": "wise fragment"
+        },
+        {
+            "SHARK_FIN": "shark fin"
+        },
+        {
+            "REFINED_MITHRIL": "refined mithril"
+        },
+        {
+            "POTATO_ITEM": "potato item"
+        },
+        {
+            "GLOWY_CHUM_BAIT": "glowy chum bait"
+        },
+        {
+            "ICE_BAIT": "ice bait"
+        },
+        {
+            "CHEESE_FUEL": "cheese fuel"
+        },
+        {
+            "KUUDRA_MANDIBLE": "kuudra mandible"
+        },
+        {
+            "PUMPKIN_GUTS": "pumpkin guts"
+        },
+        {
+            "BLAZE_ROD_DISTILLATE": "blaze rod distillate"
+        },
+        {
+            "WITHER_SHIELD_SCROLL": "wither shield scroll"
+        },
+        {
+            "ACACIA_BIRDHOUSE": "acacia birdhouse"
+        },
+        {
+            "ESSENCE_ICE": "essence ice"
+        },
+        {
+            "COLOSSAL_EXP_BOTTLE": "colossal exp bottle"
+        },
+        {
+            "MOIL_LOG": "moil log"
+        },
+        {
+            "MAGMA_FISH_GOLD": "magma fish gold"
+        },
+        {
+            "SOUL_FRAGMENT": "soul fragment"
+        },
+        {
+            "MELON_BLOCK": "melon block"
+        },
+        {
+            "CRUDE_GABAGOOL_DISTILLATE": "crude gabagool distillate"
+        },
+        {
+            "SEEDS": "seeds"
+        },
+        {
+            "WOLF_TOOTH": "wolf tooth"
+        },
+        {
+            "METEOR_SHARD": "meteor shard"
+        },
+        {
+            "DWARVEN_COMPACTOR": "dwarven compactor"
+        },
+        {
+            "GREAT_WHITE_SHARK_TOOTH": "great white shark tooth"
+        },
+        {
+            "ESSENCE_GOLD": "essence gold"
+        },
+        {
+            "RECOMBOBULATOR_3000": "recombobulator 3000"
+        },
+        {
+            "NECROMANCER_BROOCH": "necromancer brooch"
+        },
+        {
+            "DEEP_SEA_ORB": "deep sea orb"
+        },
+        {
+            "ROUGH_JASPER_GEM": "rough jasper gem"
+        },
+        {
+            "FEATHER": "feather"
+        },
+        {
+            "PETRIFIED_STARFALL": "petrified starfall"
+        },
+        {
+            "PITCHIN_KOI": "pitchin koi"
+        },
+        {
+            "SADAN_BROOCH": "sadan brooch"
+        },
+        {
+            "FIFTH_MASTER_STAR": "fifth master star"
+        },
+        {
+            "BLUE_ICE_HUNK": "blue ice hunk"
+        },
+        {
+            "TRANSMISSION_TUNER": "transmission tuner"
+        },
+        {
+            "CONCENTRATED_STONE": "concentrated stone"
+        },
+        {
+            "SHARK_WATER_ORB": "shark water orb"
+        },
+        {
+            "GHAST_TEAR": "ghast tear"
+        },
+        {
+            "UNSTABLE_FRAGMENT": "unstable fragment"
+        },
+        {
+            "MAGMA_CREAM_DISTILLATE": "magma cream distillate"
+        },
+        {
+            "GIANT_TOOTH": "giant tooth"
+        },
+        {
+            "NULL_SPHERE": "null sphere"
+        },
+        {
+            "STOCK_OF_STONKS": "stock of stonks"
+        },
+        {
+            "SUPERIOR_FRAGMENT": "superior fragment"
+        },
+        {
+            "MAGMA_BUCKET": "magma bucket"
+        },
+        {
+            "HOT_BAIT": "hot bait"
+        },
+        {
+            "WORM_MEMBRANE": "worm membrane"
+        },
+        {
+            "WATER_LILY": "water lily"
+        },
+        {
+            "LOG_2": "acacia wood"
+        },
+        {
+            "COAL": "coal"
+        },
+        {
+            "PERFECT_TOPAZ_GEM": "perfect topaz gem"
+        },
+        {
+            "GOBLIN_EGG": "goblin egg"
+        },
+        {
+            "ESSENCE_CRIMSON": "essence crimson"
+        },
+        {
+            "ENDER_STONE": "ender stone"
+        },
+        {
+            "QUARTZ": "quartz"
+        },
+        {
+            "JERRY_BOX_PURPLE": "jerry box purple"
+        },
+        {
+            "SALMON_OPAL": "salmon opal"
+        },
+        {
+            "MAGMA_CREAM": "magma cream"
+        },
+        {
+            "RED_GIFT": "red gift"
+        },
+        {
+            "WHITE_GIFT": "white gift"
+        },
+        {
+            "NETHER_STALK": "nether stalk"
+        },
+        {
+            "GOLDEN_BALL": "golden ball"
+        },
+        {
+            "LEATHER": "leather"
+        },
+        {
+            "MAGMA_FISH": "magma fish"
+        },
+        {
+            "SOUL_STRING": "soul string"
+        },
+        {
+            "FUMING_POTATO_BOOK": "fuming potato book"
+        },
+        {
+            "SULPHUR_ORE": "sulphur ore"
+        },
+        {
+            "FLAWED_SAPPHIRE_GEM": "flawed sapphire gem"
+        },
+        {
+            "PERFECT_SAPPHIRE_GEM": "perfect sapphire gem"
+        },
+        {
+            "SNOW_BLOCK": "snow block"
+        },
+        {
+            "COMPACTOR": "compactor"
+        },
+        {
+            "MANDRAA": "mandraa"
+        },
+        {
+            "SPOOKY_SHARD": "spooky shard"
+        },
+        {
+            "BULKY_STONE": "bulky stone"
+        },
+        {
+            "PUMPKIN": "pumpkin"
+        },
+        {
+            "NURSE_SHARK_TOOTH": "nurse shark tooth"
+        },
+        {
+            "WHEAT": "wheat"
+        },
+        {
+            "RAW_SOULFLOW": "raw soulflow"
+        },
+        {
+            "RAW_FISH": "raw fish"
+        },
+        {
+            "YOGGIE": "yoggie"
+        },
+        {
+            "PERFECT_JASPER_GEM": "perfect jasper gem"
+        },
+        {
+            "ICE_HUNK": "ice hunk"
+        },
+        {
+            "TIGHTLY_TIED_HAY_BALE": "tightly tied hay bale"
+        },
+        {
+            "NETHER_STALK_DISTILLATE": "nether stalk distillate"
+        },
+        {
+            "DIVER_FRAGMENT": "diver fragment"
+        },
+        {
+            "ESSENCE_DIAMOND": "essence diamond"
+        },
+        {
+            "HUGE_MUSHROOM_1": "huge mushroom 1"
+        },
+        {
+            "HUGE_MUSHROOM_2": "huge mushroom 2"
+        },
+        {
+            "STRING": "string"
+        },
+        {
+            "CRUDE_GABAGOOL": "crude gabagool"
+        },
+        {
+            "DRAGON_SCALE": "dragon scale"
+        },
+        {
+            "BOOSTER_COOKIE": "booster cookie"
+        },
+        {
+            "AMALGAMATED_CRIMSONITE_NEW": "amalgamated crimsonite new"
+        },
+        {
+            "STRONG_FRAGMENT": "strong fragment"
+        },
+        {
+            "MYCEL": "mycelium"
+        },
+        {
+            "PERFECT_AMBER_GEM": "perfect amber gem"
+        },
+        {
+            "DRAGON_HORN": "dragon horn"
+        },
+        {
+            "FLINT": "flint"
+        },
+        {
+            "HARDENED_WOOD": "hardened wood"
+        },
+        {
+            "HEAVY_GABAGOOL": "heavy gabagool"
+        },
+        {
+            "GREEN_CANDY": "green candy"
+        },
+        {
+            "ECCENTRIC_PAINTING": "eccentric painting"
+        },
+        {
+            "REAPER_PEPPER": "reaper pepper"
+        },
+        {
+            "GRAVEL": "gravel"
+        },
+        {
+            "SPIRIT_DECOY": "spirit decoy"
+        },
+        {
+            "HYPERGOLIC_GABAGOOL": "hypergolic gabagool"
+        },
+        {
+            "VITAMIN_DEATH": "vitamin death"
+        },
+        {
+            "THIRD_MASTER_STAR": "third master star"
+        },
+        {
+            "NETHERRACK": "netherrack"
+        },
+        {
+            "CANDY_CORN": "candy corn"
+        },
+        {
+            "MIDAS_JEWEL": "midas jewel"
+        },
+        {
+            "PREMIUM_FLESH": "premium flesh"
+        },
+        {
+            "ROUGH_AMETHYST_GEM": "rough amethyst gem"
+        },
+        {
+            "FLAWLESS_RUBY_GEM": "flawless ruby gem"
+        },
+        {
+            "NULL_ATOM": "null atom"
+        },
+        {
+            "PURE_MITHRIL": "pure mithril"
+        },
+        {
+            "BLESSED_BAIT": "blessed bait"
+        },
+        {
+            "ROCK_CANDY": "rock candy"
+        },
+        {
+            "LOG": "oak wood"
+        },
+        {
+            "SEARING_STONE": "searing stone"
+        },
+        {
+            "ROUGH_JADE_GEM": "rough jade gem"
+        },
+        {
+            "WOOD_SINGULARITY": "wood singularity"
+        },
+        {
+            "IRON_INGOT": "iron ingot"
+        },
+        {
+            "ROUGH_SAPPHIRE_GEM": "rough sapphire gem"
+        },
+        {
+            "REVENANT_VISCERA": "revenant viscera"
+        },
+        {
+            "TARANTULA_SILK": "tarantula silk"
+        },
+        {
+            "TITANIC_EXP_BOTTLE": "titanic exp bottle"
+        },
+        {
+            "SUPER_EGG": "super egg"
+        },
+        {
+            "SUPER_COMPACTOR_3000": "super compactor 3000"
+        },
+        {
+            "MITHRIL_ORE": "mithril ore"
+        },
+        {
+            "HOT_STUFF": "hot stuff"
+        },
+        {
+            "SUSPICIOUS_VIAL": "suspicious vial"
+        },
+        {
+            "DIRT_BOTTLE": "dirt bottle"
+        },
+        {
+            "ROUGH_TOPAZ_GEM": "rough topaz gem"
+        },
+        {
+            "ROUGH_OPAL_GEM": "rough opal gem"
+        },
+        {
+            "WEREWOLF_SKIN": "werewolf skin"
+        },
+        {
+            "FUEL_GABAGOOL": "fuel gabagool"
+        },
+        {
+            "SHARK_BAIT": "shark bait"
+        },
+        {
+            "JERRY_BOX_BLUE": "jerry box blue"
+        },
+        {
+            "SCORCHED_BOOKS": "scorched books"
+        },
+        {
+            "FINE_SAPPHIRE_GEM": "fine sapphire gem"
+        },
+        {
+            "SULPHUR": "sulphur"
+        },
+        {
+            "ROTTEN_FLESH": "rotten flesh"
+        },
+        {
+            "FLAWED_TOPAZ_GEM": "flawed topaz gem"
+        },
+        {
+            "LAPIS_CRYSTAL": "lapis crystal"
+        },
+        {
+            "FINE_AMETHYST_GEM": "fine amethyst gem"
+        },
+        {
+            "SAND:1": "red sand"
+        },
+        {
+            "MUTANT_NETHER_STALK": "mutant nether stalk"
+        },
+        {
+            "FLAWLESS_AMBER_GEM": "flawless amber gem"
+        },
+        {
+            "SUMMONING_EYE": "summoning eye"
+        },
+        {
+            "FISH_BAIT": "fish bait"
+        },
+        {
+            "WINTER_WATER_ORB": "winter water orb"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_2": "enchantment ultimate no pain no gain 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1": "enchantment ultimate no pain no gain 1"
+        },
+        {
+            "ENCHANTMENT_PROTECTION_7": "enchantment protection 7"
+        },
+        {
+            "ENCHANTMENT_PROTECTION_6": "enchantment protection 6"
+        },
+        {
+            "ENCHANTED_MELON": "enchanted melon"
+        },
+        {
+            "ENCHANTMENT_TURBO_COCO_1": "enchantment turbo coco 1"
+        },
+        {
+            "ENCHANTMENT_TURBO_COCO_5": "enchantment turbo coco 5"
+        },
+        {
+            "ENCHANTMENT_TURBO_COCO_4": "enchantment turbo coco 4"
+        },
+        {
+            "ENCHANTMENT_TURBO_COCO_3": "enchantment turbo coco 3"
+        },
+        {
+            "ENCHANTMENT_TURBO_COCO_2": "enchantment turbo coco 2"
+        },
+        {
+            "ENCHANTED_BLAZE_ROD": "enchanted blaze rod"
+        },
+        {
+            "ENCHANTED_BROWN_MUSHROOM": "enchanted brown mushroom"
+        },
+        {
+            "ENCHANTED_GLISTERING_MELON": "enchanted glistering melon"
+        },
+        {
+            "ENCHANTMENT_CORRUPTION_5": "enchantment corruption 5"
+        },
+        {
+            "ENCHANTMENT_CORRUPTION_4": "enchantment corruption 4"
+        },
+        {
+            "ENCHANTMENT_CORRUPTION_3": "enchantment corruption 3"
+        },
+        {
+            "ENCHANTMENT_CORRUPTION_2": "enchantment corruption 2"
+        },
+        {
+            "ENCHANTMENT_CORRUPTION_1": "enchantment corruption 1"
+        },
+        {
+            "ENCHANTED_MELON_BLOCK": "enchanted melon block"
+        },
+        {
+            "ENCHANTED_PUFFERFISH": "enchanted pufferfish"
+        },
+        {
+            "ENCHANTMENT_CAYENNE_5": "enchantment cayenne 5"
+        },
+        {
+            "ENCHANTED_HARD_STONE": "enchanted hard stone"
+        },
+        {
+            "ENCHANTMENT_CAYENNE_4": "enchantment cayenne 4"
+        },
+        {
+            "ENCHANTMENT_CAYENNE_3": "enchantment cayenne 3"
+        },
+        {
+            "ENCHANTMENT_CAYENNE_2": "enchantment cayenne 2"
+        },
+        {
+            "ENCHANTMENT_CAYENNE_1": "enchantment cayenne 1"
+        },
+        {
+            "ENCHANTMENT_TURBO_CACTUS_5": "enchantment turbo cactus 5"
+        },
+        {
+            "ENCHANTMENT_TURBO_CACTUS_4": "enchantment turbo cactus 4"
+        },
+        {
+            "ENCHANTED_SNOW_BLOCK": "enchanted snow block"
+        },
+        {
+            "ENCHANTMENT_TURBO_CACTUS_3": "enchantment turbo cactus 3"
+        },
+        {
+            "ENCHANTMENT_TURBO_CACTUS_2": "enchantment turbo cactus 2"
+        },
+        {
+            "ENCHANTMENT_TURBO_CACTUS_1": "enchantment turbo cactus 1"
+        },
+        {
+            "ENCHANTMENT_FIRE_ASPECT_3": "enchantment fire aspect 3"
+        },
+        {
+            "ENCHANTMENT_ENDER_SLAYER_7": "enchantment ender slayer 7"
+        },
+        {
+            "ENCHANTMENT_ENDER_SLAYER_6": "enchantment ender slayer 6"
+        },
+        {
+            "ENCHANTMENT_BIG_BRAIN_4": "enchantment big brain 4"
+        },
+        {
+            "ENCHANTMENT_BIG_BRAIN_5": "enchantment big brain 5"
+        },
+        {
+            "ENCHANTMENT_BIG_BRAIN_3": "enchantment big brain 3"
+        },
+        {
+            "ENCHANTED_CARROT_ON_A_STICK": "enchanted carrot on a stick"
+        },
+        {
+            "ENCHANTMENT_THUNDERLORD_7": "enchantment thunderlord 7"
+        },
+        {
+            "ENCHANTMENT_THUNDERLORD_6": "enchantment thunderlord 6"
+        },
+        {
+            "ENCHANTMENT_TURBO_MELON_5": "enchantment turbo melon 5"
+        },
+        {
+            "ENCHANTMENT_SHARPNESS_7": "enchantment sharpness 7"
+        },
+        {
+            "ENCHANTMENT_SHARPNESS_6": "enchantment sharpness 6"
+        },
+        {
+            "ENCHANTED_ACACIA_LOG": "enchanted acacia log"
+        },
+        {
+            "ENCHANTMENT_MANA_STEAL_1": "enchantment mana steal 1"
+        },
+        {
+            "ENCHANTMENT_MANA_STEAL_2": "enchantment mana steal 2"
+        },
+        {
+            "ENCHANTMENT_MANA_STEAL_3": "enchantment mana steal 3"
+        },
+        {
+            "ENCHANTMENT_STRONG_MANA_7": "enchantment strong mana 7"
+        },
+        {
+            "ENCHANTMENT_TURBO_MELON_3": "enchantment turbo melon 3"
+        },
+        {
+            "ENCHANTMENT_TURBO_MELON_4": "enchantment turbo melon 4"
+        },
+        {
+            "ENCHANTED_GHAST_TEAR": "enchanted ghast tear"
+        },
+        {
+            "ENCHANTMENT_STRONG_MANA_6": "enchantment strong mana 6"
+        },
+        {
+            "ENCHANTMENT_STRONG_MANA_5": "enchantment strong mana 5"
+        },
+        {
+            "ENCHANTED_COCOA": "enchanted cocoa"
+        },
+        {
+            "ENCHANTMENT_TURBO_MELON_1": "enchantment turbo melon 1"
+        },
+        {
+            "ENCHANTMENT_TURBO_MELON_2": "enchantment turbo melon 2"
+        },
+        {
+            "ENCHANTMENT_STRONG_MANA_4": "enchantment strong mana 4"
+        },
+        {
+            "ENCHANTMENT_STRONG_MANA_3": "enchantment strong mana 3"
+        },
+        {
+            "ENCHANTMENT_STRONG_MANA_2": "enchantment strong mana 2"
+        },
+        {
+            "ENCHANTMENT_STRONG_MANA_1": "enchantment strong mana 1"
+        },
+        {
+            "ENCHANTED_ROTTEN_FLESH": "enchanted rotten flesh"
+        },
+        {
+            "ENCHANTED_GRILLED_PORK": "enchanted grilled pork"
+        },
+        {
+            "ENCHANTED_ANCIENT_CLAW": "enchanted ancient claw"
+        },
+        {
+            "ENCHANTMENT_HARDENED_MANA_1": "enchantment hardened mana 1"
+        },
+        {
+            "ENCHANTMENT_HARDENED_MANA_3": "enchantment hardened mana 3"
+        },
+        {
+            "ENCHANTMENT_HARDENED_MANA_2": "enchantment hardened mana 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_COMBO_1": "enchantment ultimate combo 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_COMBO_2": "enchantment ultimate combo 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_COMBO_5": "enchantment ultimate combo 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_COMBO_3": "enchantment ultimate combo 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_COMBO_4": "enchantment ultimate combo 4"
+        },
+        {
+            "ENCHANTED_LAVA_BUCKET": "enchanted lava bucket"
+        },
+        {
+            "ENCHANTMENT_STRONG_MANA_9": "enchantment strong mana 9"
+        },
+        {
+            "ENCHANTMENT_STRONG_MANA_8": "enchantment strong mana 8"
+        },
+        {
+            "ENCHANTMENT_TURBO_WARTS_1": "enchantment turbo warts 1"
+        },
+        {
+            "ENCHANTMENT_TURBO_WARTS_2": "enchantment turbo warts 2"
+        },
+        {
+            "ENCHANTMENT_TURBO_WARTS_3": "enchantment turbo warts 3"
+        },
+        {
+            "ENCHANTMENT_TURBO_WARTS_4": "enchantment turbo warts 4"
+        },
+        {
+            "ENCHANTMENT_TURBO_WARTS_5": "enchantment turbo warts 5"
+        },
+        {
+            "ENCHANTED_DARK_OAK_LOG": "enchanted dark oak log"
+        },
+        {
+            "ENCHANTMENT_HARDENED_MANA_5": "enchantment hardened mana 5"
+        },
+        {
+            "ENCHANTMENT_HARDENED_MANA_4": "enchantment hardened mana 4"
+        },
+        {
+            "ENCHANTMENT_HARDENED_MANA_7": "enchantment hardened mana 7"
+        },
+        {
+            "ENCHANTMENT_HARDENED_MANA_6": "enchantment hardened mana 6"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_4": "enchantment ultimate no pain no gain 4"
+        },
+        {
+            "ENCHANTMENT_HARDENED_MANA_9": "enchantment hardened mana 9"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_3": "enchantment ultimate no pain no gain 3"
+        },
+        {
+            "ENCHANTMENT_HARDENED_MANA_8": "enchantment hardened mana 8"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_5": "enchantment ultimate no pain no gain 5"
+        },
+        {
+            "ENCHANTED_RAW_CHICKEN": "enchanted raw chicken"
+        },
+        {
+            "ENCHANTED_WATER_LILY": "enchanted water lily"
+        },
+        {
+            "ENCHANTED_CACTUS": "enchanted cactus"
+        },
+        {
+            "ENCHANTED_SULPHUR": "enchanted sulphur"
+        },
+        {
+            "ENCHANTED_COOKED_SALMON": "enchanted cooked salmon"
+        },
+        {
+            "ENCHANTED_SEEDS": "enchanted seeds"
+        },
+        {
+            "ENCHANTED_BONE_BLOCK": "enchanted bone block"
+        },
+        {
+            "ENCHANTMENT_EXPERIENCE_4": "enchantment experience 4"
+        },
+        {
+            "ENCHANTED_GOLD_BLOCK": "enchanted gold block"
+        },
+        {
+            "ENCHANTED_FLINT": "enchanted flint"
+        },
+        {
+            "ENCHANTED_CLAY_BALL": "enchanted clay ball"
+        },
+        {
+            "ENCHANTMENT_MANA_VAMPIRE_10": "enchantment mana vampire 10"
+        },
+        {
+            "ENCHANTED_BONE": "enchanted bone"
+        },
+        {
+            "ENCHANTED_DIAMOND_BLOCK": "enchanted diamond block"
+        },
+        {
+            "ENCHANTMENT_DELICATE_5": "enchantment delicate 5"
+        },
+        {
+            "ENCHANTMENT_PROSECUTE_6": "enchantment prosecute 6"
+        },
+        {
+            "ENCHANTMENT_CASTER_6": "enchantment caster 6"
+        },
+        {
+            "ENCHANTED_QUARTZ": "enchanted quartz"
+        },
+        {
+            "ENCHANTED_COAL_BLOCK": "enchanted coal block"
+        },
+        {
+            "ENCHANTMENT_RESPITE_5": "enchantment respite 5"
+        },
+        {
+            "ENCHANTMENT_RESPITE_3": "enchantment respite 3"
+        },
+        {
+            "ENCHANTMENT_RESPITE_4": "enchantment respite 4"
+        },
+        {
+            "ENCHANTMENT_RESPITE_1": "enchantment respite 1"
+        },
+        {
+            "ENCHANTMENT_RESPITE_2": "enchantment respite 2"
+        },
+        {
+            "ENCHANTED_RAW_BEEF": "enchanted raw beef"
+        },
+        {
+            "ENCHANTMENT_OVERLOAD_5": "enchantment overload 5"
+        },
+        {
+            "ENCHANTMENT_OVERLOAD_4": "enchantment overload 4"
+        },
+        {
+            "ENCHANTMENT_OVERLOAD_3": "enchantment overload 3"
+        },
+        {
+            "ENCHANTMENT_OVERLOAD_2": "enchantment overload 2"
+        },
+        {
+            "ENCHANTMENT_OVERLOAD_1": "enchantment overload 1"
+        },
+        {
+            "ENCHANTED_PUMPKIN": "enchanted pumpkin"
+        },
+        {
+            "ENCHANTED_COOKED_FISH": "enchanted cooked fish"
+        },
+        {
+            "ENCHANTMENT_FIRE_PROTECTION_6": "enchantment fire protection 6"
+        },
+        {
+            "ENCHANTMENT_FIRE_PROTECTION_7": "enchantment fire protection 7"
+        },
+        {
+            "ENCHANTMENT_HARDENED_MANA_10": "enchantment hardened mana 10"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_JERRY_2": "enchantment ultimate jerry 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_REND_3": "enchantment ultimate rend 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_JERRY_1": "enchantment ultimate jerry 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_REND_2": "enchantment ultimate rend 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_REND_1": "enchantment ultimate rend 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_JERRY_5": "enchantment ultimate jerry 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_JERRY_4": "enchantment ultimate jerry 4"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_REND_5": "enchantment ultimate rend 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_REND_4": "enchantment ultimate rend 4"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_JERRY_3": "enchantment ultimate jerry 3"
+        },
+        {
+            "ENCHANTED_RABBIT_HIDE": "enchanted rabbit hide"
+        },
+        {
+            "ENCHANTMENT_HARVESTING_6": "enchantment harvesting 6"
+        },
+        {
+            "ENCHANTED_BIRCH_LOG": "enchanted birch log"
+        },
+        {
+            "ENCHANTED_GUNPOWDER": "enchanted gunpowder"
+        },
+        {
+            "ENCHANTED_SUGAR": "enchanted sugar"
+        },
+        {
+            "ENCHANTED_RAW_SALMON": "enchanted raw salmon"
+        },
+        {
+            "ENCHANTED_EMERALD": "enchanted emerald"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_WISE_2": "enchantment ultimate wise 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_WISE_1": "enchantment ultimate wise 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_WISE_4": "enchantment ultimate wise 4"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_WISE_3": "enchantment ultimate wise 3"
+        },
+        {
+            "ENCHANTED_NETHERRACK": "enchanted netherrack"
+        },
+        {
+            "ENCHANTMENT_TRUE_PROTECTION_1": "enchantment true protection 1"
+        },
+        {
+            "ENCHANTMENT_LUCK_OF_THE_SEA_6": "enchantment luck of the sea 6"
+        },
+        {
+            "ENCHANTMENT_SMARTY_PANTS_3": "enchantment smarty pants 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_WISE_5": "enchantment ultimate wise 5"
+        },
+        {
+            "ENCHANTMENT_SMARTY_PANTS_2": "enchantment smarty pants 2"
+        },
+        {
+            "ENCHANTMENT_SMARTY_PANTS_5": "enchantment smarty pants 5"
+        },
+        {
+            "ENCHANTMENT_SMARTY_PANTS_4": "enchantment smarty pants 4"
+        },
+        {
+            "ENCHANTMENT_SMARTY_PANTS_1": "enchantment smarty pants 1"
+        },
+        {
+            "ENCHANTMENT_LURE_6": "enchantment lure 6"
+        },
+        {
+            "ENCHANTED_EGG": "enchanted egg"
+        },
+        {
+            "ENCHANTMENT_FEROCIOUS_MANA_8": "enchantment ferocious mana 8"
+        },
+        {
+            "ENCHANTMENT_FEROCIOUS_MANA_9": "enchantment ferocious mana 9"
+        },
+        {
+            "ENCHANTMENT_FEROCIOUS_MANA_4": "enchantment ferocious mana 4"
+        },
+        {
+            "ENCHANTMENT_FEROCIOUS_MANA_5": "enchantment ferocious mana 5"
+        },
+        {
+            "ENCHANTMENT_FEROCIOUS_MANA_6": "enchantment ferocious mana 6"
+        },
+        {
+            "ENCHANTMENT_FEROCIOUS_MANA_7": "enchantment ferocious mana 7"
+        },
+        {
+            "ENCHANTMENT_MAGNET_6": "enchantment magnet 6"
+        },
+        {
+            "ENCHANTMENT_FEROCIOUS_MANA_1": "enchantment ferocious mana 1"
+        },
+        {
+            "ENCHANTMENT_FEROCIOUS_MANA_2": "enchantment ferocious mana 2"
+        },
+        {
+            "ENCHANTMENT_FEROCIOUS_MANA_3": "enchantment ferocious mana 3"
+        },
+        {
+            "ENCHANTMENT_PROJECTILE_PROTECTION_7": "enchantment projectile protection 7"
+        },
+        {
+            "ENCHANTMENT_CHAMPION_10": "enchantment champion 10"
+        },
+        {
+            "ENCHANTMENT_PROJECTILE_PROTECTION_6": "enchantment projectile protection 6"
+        },
+        {
+            "ENCHANTED_SHARK_FIN": "enchanted shark fin"
+        },
+        {
+            "ENCHANTED_REDSTONE_BLOCK": "enchanted redstone block"
+        },
+        {
+            "ENCHANTED_REDSTONE_LAMP": "enchanted redstone lamp"
+        },
+        {
+            "ENCHANTMENT_DRAGON_HUNTER_4": "enchantment dragon hunter 4"
+        },
+        {
+            "ENCHANTMENT_DRAGON_HUNTER_3": "enchantment dragon hunter 3"
+        },
+        {
+            "ENCHANTMENT_DRAGON_HUNTER_5": "enchantment dragon hunter 5"
+        },
+        {
+            "ENCHANTMENT_DRAGON_HUNTER_2": "enchantment dragon hunter 2"
+        },
+        {
+            "ENCHANTED_IRON_BLOCK": "enchanted iron block"
+        },
+        {
+            "ENCHANTMENT_DRAGON_HUNTER_1": "enchantment dragon hunter 1"
+        },
+        {
+            "ENCHANTED_GLOWSTONE": "enchanted glowstone"
+        },
+        {
+            "ENCHANTMENT_CHARM_2": "enchantment charm 2"
+        },
+        {
+            "ENCHANTMENT_CHARM_3": "enchantment charm 3"
+        },
+        {
+            "ENCHANTMENT_CHARM_1": "enchantment charm 1"
+        },
+        {
+            "ENCHANTMENT_CHARM_4": "enchantment charm 4"
+        },
+        {
+            "ENCHANTMENT_CHARM_5": "enchantment charm 5"
+        },
+        {
+            "ENCHANTED_INK_SACK": "enchanted ink sack"
+        },
+        {
+            "ENCHANTMENT_REPLENISH_1": "enchantment replenish 1"
+        },
+        {
+            "ENCHANTED_ENDER_PEARL": "enchanted ender pearl"
+        },
+        {
+            "ENCHANTED_FERMENTED_SPIDER_EYE": "enchanted fermented spider eye"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_SWARM_5": "enchantment ultimate swarm 5"
+        },
+        {
+            "ENCHANTMENT_TURBO_WHEAT_3": "enchantment turbo wheat 3"
+        },
+        {
+            "ENCHANTMENT_TURBO_WHEAT_4": "enchantment turbo wheat 4"
+        },
+        {
+            "ENCHANTMENT_TURBO_WHEAT_1": "enchantment turbo wheat 1"
+        },
+        {
+            "ENCHANTMENT_TURBO_WHEAT_2": "enchantment turbo wheat 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_SWARM_3": "enchantment ultimate swarm 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_SWARM_4": "enchantment ultimate swarm 4"
+        },
+        {
+            "ENCHANTMENT_TURBO_WHEAT_5": "enchantment turbo wheat 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_SWARM_1": "enchantment ultimate swarm 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_SWARM_2": "enchantment ultimate swarm 2"
+        },
+        {
+            "ENCHANTMENT_SUGAR_RUSH_3": "enchantment sugar rush 3"
+        },
+        {
+            "ENCHANTMENT_SUGAR_RUSH_2": "enchantment sugar rush 2"
+        },
+        {
+            "ENCHANTED_IRON": "enchanted iron"
+        },
+        {
+            "ENCHANTMENT_SUGAR_RUSH_1": "enchantment sugar rush 1"
+        },
+        {
+            "ENCHANTED_HAY_BLOCK": "enchanted hay block"
+        },
+        {
+            "ENCHANTED_TITANIUM": "enchanted titanium"
+        },
+        {
+            "ENCHANTED_RABBIT_FOOT": "enchanted rabbit foot"
+        },
+        {
+            "ENCHANTED_ICE": "enchanted ice"
+        },
+        {
+            "ENCHANTMENT_GROWTH_6": "enchantment growth 6"
+        },
+        {
+            "ENCHANTMENT_GROWTH_7": "enchantment growth 7"
+        },
+        {
+            "ENCHANTED_COAL": "enchanted coal"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_CHIMERA_1": "enchantment ultimate chimera 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_LAST_STAND_5": "enchantment ultimate last stand 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_LAST_STAND_4": "enchantment ultimate last stand 4"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_LAST_STAND_3": "enchantment ultimate last stand 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_CHIMERA_5": "enchantment ultimate chimera 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_LAST_STAND_2": "enchantment ultimate last stand 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_CHIMERA_4": "enchantment ultimate chimera 4"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_LAST_STAND_1": "enchantment ultimate last stand 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_CHIMERA_3": "enchantment ultimate chimera 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_CHIMERA_2": "enchantment ultimate chimera 2"
+        },
+        {
+            "ENCHANTED_EYE_OF_ENDER": "enchanted eye of ender"
+        },
+        {
+            "ENCHANTED_MYCELIUM": "enchanted mycelium"
+        },
+        {
+            "ENCHANTED_MAGMA_CREAM": "enchanted magma cream"
+        },
+        {
+            "ENCHANTED_FIREWORK_ROCKET": "enchanted firework rocket"
+        },
+        {
+            "ENCHANTED_COOKED_MUTTON": "enchanted cooked mutton"
+        },
+        {
+            "ENCHANTMENT_FEATHER_FALLING_10": "enchantment feather falling 10"
+        },
+        {
+            "ENCHANTMENT_SMOLDERING_5": "enchantment smoldering 5"
+        },
+        {
+            "ENCHANTMENT_SMOLDERING_3": "enchantment smoldering 3"
+        },
+        {
+            "ENCHANTMENT_SMOLDERING_4": "enchantment smoldering 4"
+        },
+        {
+            "ENCHANTMENT_SMOLDERING_1": "enchantment smoldering 1"
+        },
+        {
+            "ENCHANTMENT_SMOLDERING_2": "enchantment smoldering 2"
+        },
+        {
+            "ENCHANTED_CHARCOAL": "enchanted charcoal"
+        },
+        {
+            "ENCHANTED_DIAMOND": "enchanted diamond"
+        },
+        {
+            "ENCHANTMENT_CRITICAL_6": "enchantment critical 6"
+        },
+        {
+            "ENCHANTMENT_CRITICAL_7": "enchantment critical 7"
+        },
+        {
+            "ENCHANTED_GOLDEN_CARROT": "enchanted golden carrot"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_4": "enchantment ultimate habanero tactics 4"
+        },
+        {
+            "ENCHANTMENT_THUNDERBOLT_6": "enchantment thunderbolt 6"
+        },
+        {
+            "ENCHANTMENT_BLAST_PROTECTION_7": "enchantment blast protection 7"
+        },
+        {
+            "ENCHANTED_MYCELIUM_CUBE": "enchanted mycelium cube"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_5": "enchantment ultimate habanero tactics 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_REITERATE_1": "enchantment ultimate reiterate 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_REITERATE_4": "enchantment ultimate reiterate 4"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_REITERATE_5": "enchantment ultimate reiterate 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_REITERATE_2": "enchantment ultimate reiterate 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_REITERATE_3": "enchantment ultimate reiterate 3"
+        },
+        {
+            "ENCHANTED_HUGE_MUSHROOM_1": "enchanted huge mushroom 1"
+        },
+        {
+            "ENCHANTMENT_VENOMOUS_6": "enchantment venomous 6"
+        },
+        {
+            "ENCHANTED_COBBLESTONE": "enchanted cobblestone"
+        },
+        {
+            "ENCHANTMENT_STRONG_MANA_10": "enchantment strong mana 10"
+        },
+        {
+            "ENCHANTED_HUGE_MUSHROOM_2": "enchanted huge mushroom 2"
+        },
+        {
+            "ENCHANTMENT_FEATHER_FALLING_7": "enchantment feather falling 7"
+        },
+        {
+            "ENCHANTMENT_FEATHER_FALLING_6": "enchantment feather falling 6"
+        },
+        {
+            "ENCHANTMENT_FEATHER_FALLING_9": "enchantment feather falling 9"
+        },
+        {
+            "ENCHANTMENT_FEATHER_FALLING_8": "enchantment feather falling 8"
+        },
+        {
+            "ENCHANTED_ENDSTONE": "enchanted endstone"
+        },
+        {
+            "ENCHANTED_LAPIS_LAZULI_BLOCK": "enchanted lapis lazuli block"
+        },
+        {
+            "ENCHANTED_SAND": "enchanted sand"
+        },
+        {
+            "ENCHANTED_STRING": "enchanted string"
+        },
+        {
+            "ENCHANTED_LAPIS_LAZULI": "enchanted lapis lazuli"
+        },
+        {
+            "ENCHANTED_LEATHER": "enchanted leather"
+        },
+        {
+            "ENCHANTED_SPONGE": "enchanted sponge"
+        },
+        {
+            "ENCHANTED_NETHER_STALK": "enchanted nether stalk"
+        },
+        {
+            "ENCHANTED_REDSTONE": "enchanted redstone"
+        },
+        {
+            "ENCHANTMENT_COMPACT_1": "enchantment compact 1"
+        },
+        {
+            "ENCHANTMENT_PRISTINE_1": "enchantment pristine 1"
+        },
+        {
+            "ENCHANTMENT_PRISTINE_2": "enchantment pristine 2"
+        },
+        {
+            "ENCHANTMENT_BLAST_PROTECTION_6": "enchantment blast protection 6"
+        },
+        {
+            "ENCHANTMENT_PRISTINE_5": "enchantment pristine 5"
+        },
+        {
+            "ENCHANTMENT_PRISTINE_3": "enchantment pristine 3"
+        },
+        {
+            "ENCHANTMENT_PRISTINE_4": "enchantment pristine 4"
+        },
+        {
+            "ENCHANTMENT_FEROCIOUS_MANA_10": "enchantment ferocious mana 10"
+        },
+        {
+            "ENCHANTED_PORK": "enchanted pork"
+        },
+        {
+            "ENCHANTED_RED_SAND": "enchanted red sand"
+        },
+        {
+            "ENCHANTED_CLOWNFISH": "enchanted clownfish"
+        },
+        {
+            "ENCHANTED_GOLD": "enchanted gold"
+        },
+        {
+            "ENCHANTMENT_LIFE_STEAL_5": "enchantment life steal 5"
+        },
+        {
+            "ENCHANTMENT_LIFE_STEAL_4": "enchantment life steal 4"
+        },
+        {
+            "ENCHANTMENT_TURBO_MUSHROOMS_5": "enchantment turbo mushrooms 5"
+        },
+        {
+            "ENCHANTED_GLOWSTONE_DUST": "enchanted glowstone dust"
+        },
+        {
+            "ENCHANTMENT_PISCARY_6": "enchantment piscary 6"
+        },
+        {
+            "ENCHANTMENT_TABASCO_1": "enchantment tabasco 1"
+        },
+        {
+            "ENCHANTMENT_TABASCO_3": "enchantment tabasco 3"
+        },
+        {
+            "ENCHANTMENT_TABASCO_2": "enchantment tabasco 2"
+        },
+        {
+            "ENCHANTED_SUGAR_CANE": "enchanted sugar cane"
+        },
+        {
+            "ENCHANTMENT_TURBO_MUSHROOMS_2": "enchantment turbo mushrooms 2"
+        },
+        {
+            "ENCHANTMENT_TURBO_MUSHROOMS_1": "enchantment turbo mushrooms 1"
+        },
+        {
+            "ENCHANTMENT_TURBO_MUSHROOMS_4": "enchantment turbo mushrooms 4"
+        },
+        {
+            "ENCHANTMENT_TURBO_MUSHROOMS_3": "enchantment turbo mushrooms 3"
+        },
+        {
+            "ENCHANTMENT_MANA_VAMPIRE_2": "enchantment mana vampire 2"
+        },
+        {
+            "ENCHANTMENT_MANA_VAMPIRE_1": "enchantment mana vampire 1"
+        },
+        {
+            "ENCHANTMENT_MANA_VAMPIRE_4": "enchantment mana vampire 4"
+        },
+        {
+            "ENCHANTMENT_MANA_VAMPIRE_3": "enchantment mana vampire 3"
+        },
+        {
+            "ENCHANTMENT_MANA_VAMPIRE_6": "enchantment mana vampire 6"
+        },
+        {
+            "ENCHANTMENT_MANA_VAMPIRE_5": "enchantment mana vampire 5"
+        },
+        {
+            "ENCHANTMENT_MANA_VAMPIRE_8": "enchantment mana vampire 8"
+        },
+        {
+            "ENCHANTMENT_MANA_VAMPIRE_7": "enchantment mana vampire 7"
+        },
+        {
+            "ENCHANTMENT_MANA_VAMPIRE_9": "enchantment mana vampire 9"
+        },
+        {
+            "ENCHANTED_EMERALD_BLOCK": "enchanted emerald block"
+        },
+        {
+            "ENCHANTED_MUTTON": "enchanted mutton"
+        },
+        {
+            "ENCHANTMENT_TITAN_KILLER_7": "enchantment titan killer 7"
+        },
+        {
+            "ENCHANTMENT_TITAN_KILLER_6": "enchantment titan killer 6"
+        },
+        {
+            "ENCHANTMENT_POWER_7": "enchantment power 7"
+        },
+        {
+            "ENCHANTMENT_POWER_6": "enchantment power 6"
+        },
+        {
+            "ENCHANTMENT_ANGLER_6": "enchantment angler 6"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_BOBBIN_TIME_3": "enchantment ultimate bobbin time 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_BOBBIN_TIME_4": "enchantment ultimate bobbin time 4"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_BOBBIN_TIME_5": "enchantment ultimate bobbin time 5"
+        },
+        {
+            "ENCHANTED_PRISMARINE_CRYSTALS": "enchanted prismarine crystals"
+        },
+        {
+            "ENCHANTMENT_VAMPIRISM_6": "enchantment vampirism 6"
+        },
+        {
+            "ENCHANTED_WET_SPONGE": "enchanted wet sponge"
+        },
+        {
+            "ENCHANTMENT_CULTIVATING_1": "enchantment cultivating 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_SOUL_EATER_1": "enchantment ultimate soul eater 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_SOUL_EATER_3": "enchantment ultimate soul eater 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_SOUL_EATER_2": "enchantment ultimate soul eater 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_SOUL_EATER_5": "enchantment ultimate soul eater 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_SOUL_EATER_4": "enchantment ultimate soul eater 4"
+        },
+        {
+            "ENCHANTED_MITHRIL": "enchanted mithril"
+        },
+        {
+            "ENCHANTMENT_CHANCE_5": "enchantment chance 5"
+        },
+        {
+            "ENCHANTMENT_CHANCE_4": "enchantment chance 4"
+        },
+        {
+            "ENCHANTED_FEATHER": "enchanted feather"
+        },
+        {
+            "ENCHANTED_OAK_LOG": "enchanted oak log"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_FLASH_2": "enchantment ultimate flash 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_FLASH_1": "enchantment ultimate flash 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_FLASH_4": "enchantment ultimate flash 4"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_FLASH_3": "enchantment ultimate flash 3"
+        },
+        {
+            "ENCHANTMENT_FIRST_STRIKE_5": "enchantment first strike 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_FLASH_5": "enchantment ultimate flash 5"
+        },
+        {
+            "ENCHANTMENT_TURBO_PUMPKIN_1": "enchantment turbo pumpkin 1"
+        },
+        {
+            "ENCHANTMENT_TURBO_PUMPKIN_2": "enchantment turbo pumpkin 2"
+        },
+        {
+            "ENCHANTMENT_TURBO_PUMPKIN_3": "enchantment turbo pumpkin 3"
+        },
+        {
+            "ENCHANTMENT_TURBO_PUMPKIN_4": "enchantment turbo pumpkin 4"
+        },
+        {
+            "ENCHANTMENT_TURBO_PUMPKIN_5": "enchantment turbo pumpkin 5"
+        },
+        {
+            "ENCHANTED_BREAD": "enchanted bread"
+        },
+        {
+            "ENCHANTMENT_EXPERTISE_1": "enchantment expertise 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_FATAL_TEMPO_5": "enchantment ultimate fatal tempo 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_FATAL_TEMPO_3": "enchantment ultimate fatal tempo 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_FATAL_TEMPO_4": "enchantment ultimate fatal tempo 4"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_FATAL_TEMPO_1": "enchantment ultimate fatal tempo 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_FATAL_TEMPO_2": "enchantment ultimate fatal tempo 2"
+        },
+        {
+            "ENCHANTMENT_BLESSING_6": "enchantment blessing 6"
+        },
+        {
+            "ENCHANTED_BAKED_POTATO": "enchanted baked potato"
+        },
+        {
+            "ENCHANTMENT_CHAMPION_1": "enchantment champion 1"
+        },
+        {
+            "ENCHANTMENT_CHAMPION_3": "enchantment champion 3"
+        },
+        {
+            "ENCHANTMENT_CHAMPION_2": "enchantment champion 2"
+        },
+        {
+            "ENCHANTMENT_CHAMPION_5": "enchantment champion 5"
+        },
+        {
+            "ENCHANTED_POTATO": "enchanted potato"
+        },
+        {
+            "ENCHANTMENT_CHAMPION_4": "enchantment champion 4"
+        },
+        {
+            "ENCHANTMENT_CHAMPION_7": "enchantment champion 7"
+        },
+        {
+            "ENCHANTED_SLIME_BALL": "enchanted slime ball"
+        },
+        {
+            "ENCHANTMENT_CHAMPION_6": "enchantment champion 6"
+        },
+        {
+            "ENCHANTMENT_CHAMPION_9": "enchantment champion 9"
+        },
+        {
+            "ENCHANTMENT_CHAMPION_8": "enchantment champion 8"
+        },
+        {
+            "ENCHANTED_RED_MUSHROOM": "enchanted red mushroom"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_ONE_FOR_ALL_1": "enchantment ultimate one for all 1"
+        },
+        {
+            "ENCHANTMENT_SNIPE_4": "enchantment snipe 4"
+        },
+        {
+            "ENCHANTED_CAKE": "enchanted cake"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_BANK_5": "enchantment ultimate bank 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_LEGION_1": "enchantment ultimate legion 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_BANK_2": "enchantment ultimate bank 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_BANK_1": "enchantment ultimate bank 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_LEGION_2": "enchantment ultimate legion 2"
+        },
+        {
+            "ENCHANTED_SPIDER_EYE": "enchanted spider eye"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_BANK_4": "enchantment ultimate bank 4"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_BANK_3": "enchantment ultimate bank 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_LEGION_5": "enchantment ultimate legion 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_LEGION_3": "enchantment ultimate legion 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_LEGION_4": "enchantment ultimate legion 4"
+        },
+        {
+            "ENCHANTMENT_HECATOMB_10": "enchantment hecatomb 10"
+        },
+        {
+            "ENCHANTMENT_COUNTER_STRIKE_3": "enchantment counter strike 3"
+        },
+        {
+            "ENCHANTMENT_COUNTER_STRIKE_4": "enchantment counter strike 4"
+        },
+        {
+            "ENCHANTMENT_COUNTER_STRIKE_5": "enchantment counter strike 5"
+        },
+        {
+            "ENCHANTMENT_SPIKED_HOOK_6": "enchantment spiked hook 6"
+        },
+        {
+            "ENCHANTMENT_LETHALITY_6": "enchantment lethality 6"
+        },
+        {
+            "ENCHANTMENT_REJUVENATE_1": "enchantment rejuvenate 1"
+        },
+        {
+            "ENCHANTMENT_CLEAVE_6": "enchantment cleave 6"
+        },
+        {
+            "ENCHANTMENT_VICIOUS_3": "enchantment vicious 3"
+        },
+        {
+            "ENCHANTMENT_REJUVENATE_5": "enchantment rejuvenate 5"
+        },
+        {
+            "ENCHANTMENT_VICIOUS_4": "enchantment vicious 4"
+        },
+        {
+            "ENCHANTMENT_REJUVENATE_4": "enchantment rejuvenate 4"
+        },
+        {
+            "ENCHANTMENT_REJUVENATE_3": "enchantment rejuvenate 3"
+        },
+        {
+            "ENCHANTMENT_VICIOUS_5": "enchantment vicious 5"
+        },
+        {
+            "ENCHANTMENT_REJUVENATE_2": "enchantment rejuvenate 2"
+        },
+        {
+            "ENCHANTED_CACTUS_GREEN": "enchanted cactus green"
+        },
+        {
+            "ENCHANTED_COOKIE": "enchanted cookie"
+        },
+        {
+            "ENCHANTMENT_TURBO_CARROT_2": "enchantment turbo carrot 2"
+        },
+        {
+            "ENCHANTMENT_TURBO_CARROT_1": "enchantment turbo carrot 1"
+        },
+        {
+            "ENCHANTMENT_GIANT_KILLER_6": "enchantment giant killer 6"
+        },
+        {
+            "ENCHANTMENT_GIANT_KILLER_7": "enchantment giant killer 7"
+        },
+        {
+            "ENCHANTMENT_TRIPLE_STRIKE_5": "enchantment triple strike 5"
+        },
+        {
+            "ENCHANTED_SPRUCE_LOG": "enchanted spruce log"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_INFERNO_1": "enchantment ultimate inferno 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_INFERNO_3": "enchantment ultimate inferno 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_INFERNO_2": "enchantment ultimate inferno 2"
+        },
+        {
+            "ENCHANTED_QUARTZ_BLOCK": "enchanted quartz block"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_INFERNO_5": "enchantment ultimate inferno 5"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_INFERNO_4": "enchantment ultimate inferno 4"
+        },
+        {
+            "ENCHANTED_PACKED_ICE": "enchanted packed ice"
+        },
+        {
+            "ENCHANTED_PRISMARINE_SHARD": "enchanted prismarine shard"
+        },
+        {
+            "ENCHANTMENT_TURBO_CARROT_4": "enchantment turbo carrot 4"
+        },
+        {
+            "ENCHANTMENT_TURBO_CARROT_3": "enchantment turbo carrot 3"
+        },
+        {
+            "ENCHANTED_CARROT_STICK": "enchanted carrot stick"
+        },
+        {
+            "ENCHANTMENT_TURBO_CARROT_5": "enchantment turbo carrot 5"
+        },
+        {
+            "ENCHANTMENT_TURBO_CANE_4": "enchantment turbo cane 4"
+        },
+        {
+            "ENCHANTMENT_TURBO_CANE_3": "enchantment turbo cane 3"
+        },
+        {
+            "ENCHANTMENT_TURBO_CANE_2": "enchantment turbo cane 2"
+        },
+        {
+            "ENCHANTMENT_TURBO_CANE_1": "enchantment turbo cane 1"
+        },
+        {
+            "ENCHANTMENT_TURBO_CANE_5": "enchantment turbo cane 5"
+        },
+        {
+            "ENCHANTMENT_FORTUNE_4": "enchantment fortune 4"
+        },
+        {
+            "ENCHANTED_JUNGLE_LOG": "enchanted jungle log"
+        },
+        {
+            "ENCHANTMENT_FRAIL_6": "enchantment frail 6"
+        },
+        {
+            "ENCHANTED_PAPER": "enchanted paper"
+        },
+        {
+            "ENCHANTED_OBSIDIAN": "enchanted obsidian"
+        },
+        {
+            "ENCHANTMENT_SYPHON_5": "enchantment syphon 5"
+        },
+        {
+            "ENCHANTMENT_SYPHON_4": "enchantment syphon 4"
+        },
+        {
+            "ENCHANTED_RED_SAND_CUBE": "enchanted red sand cube"
+        },
+        {
+            "ENCHANTED_RAW_FISH": "enchanted raw fish"
+        },
+        {
+            "ENCHANTMENT_EXECUTE_6": "enchantment execute 6"
+        },
+        {
+            "ENCHANTMENT_INFINITE_QUIVER_10": "enchantment infinite quiver 10"
+        },
+        {
+            "ENCHANTMENT_LOOTING_4": "enchantment looting 4"
+        },
+        {
+            "ENCHANTMENT_SMITE_7": "enchantment smite 7"
+        },
+        {
+            "ENCHANTMENT_SCAVENGER_4": "enchantment scavenger 4"
+        },
+        {
+            "ENCHANTMENT_SCAVENGER_5": "enchantment scavenger 5"
+        },
+        {
+            "ENCHANTMENT_LOOTING_5": "enchantment looting 5"
+        },
+        {
+            "ENCHANTED_SLIME_BLOCK": "enchanted slime block"
+        },
+        {
+            "ENCHANTMENT_CUBISM_6": "enchantment cubism 6"
+        },
+        {
+            "ENCHANTED_CARROT": "enchanted carrot"
+        },
+        {
+            "ENCHANTMENT_SMITE_6": "enchantment smite 6"
+        },
+        {
+            "ENCHANTMENT_HECATOMB_2": "enchantment hecatomb 2"
+        },
+        {
+            "ENCHANTMENT_HECATOMB_3": "enchantment hecatomb 3"
+        },
+        {
+            "ENCHANTMENT_HECATOMB_1": "enchantment hecatomb 1"
+        },
+        {
+            "ENCHANTMENT_HECATOMB_6": "enchantment hecatomb 6"
+        },
+        {
+            "ENCHANTMENT_HECATOMB_7": "enchantment hecatomb 7"
+        },
+        {
+            "ENCHANTMENT_HECATOMB_4": "enchantment hecatomb 4"
+        },
+        {
+            "ENCHANTMENT_HECATOMB_5": "enchantment hecatomb 5"
+        },
+        {
+            "ENCHANTMENT_HECATOMB_8": "enchantment hecatomb 8"
+        },
+        {
+            "ENCHANTMENT_HECATOMB_9": "enchantment hecatomb 9"
+        },
+        {
+            "ENCHANTED_RABBIT": "enchanted rabbit"
+        },
+        {
+            "ENCHANTMENT_LUCK_6": "enchantment luck 6"
+        },
+        {
+            "ENCHANTMENT_LUCK_7": "enchantment luck 7"
+        },
+        {
+            "ENCHANTED_BLAZE_POWDER": "enchanted blaze powder"
+        },
+        {
+            "ENCHANTMENT_INFINITE_QUIVER_8": "enchantment infinite quiver 8"
+        },
+        {
+            "ENCHANTED_SULPHUR_CUBE": "enchanted sulphur cube"
+        },
+        {
+            "ENCHANTMENT_INFINITE_QUIVER_9": "enchantment infinite quiver 9"
+        },
+        {
+            "ENCHANTMENT_INFINITE_QUIVER_6": "enchantment infinite quiver 6"
+        },
+        {
+            "ENCHANTMENT_INFINITE_QUIVER_7": "enchantment infinite quiver 7"
+        },
+        {
+            "ENCHANTMENT_TURBO_POTATO_3": "enchantment turbo potato 3"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_WISDOM_4": "enchantment ultimate wisdom 4"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_WISDOM_5": "enchantment ultimate wisdom 5"
+        },
+        {
+            "ENCHANTMENT_TURBO_POTATO_4": "enchantment turbo potato 4"
+        },
+        {
+            "ENCHANTMENT_TURBO_POTATO_5": "enchantment turbo potato 5"
+        },
+        {
+            "ENCHANTMENT_BANE_OF_ARTHROPODS_6": "enchantment bane of arthropods 6"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_WISDOM_1": "enchantment ultimate wisdom 1"
+        },
+        {
+            "ENCHANTMENT_BANE_OF_ARTHROPODS_7": "enchantment bane of arthropods 7"
+        },
+        {
+            "ENCHANTMENT_TURBO_POTATO_1": "enchantment turbo potato 1"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_WISDOM_2": "enchantment ultimate wisdom 2"
+        },
+        {
+            "ENCHANTMENT_TURBO_POTATO_2": "enchantment turbo potato 2"
+        },
+        {
+            "ENCHANTMENT_ULTIMATE_WISDOM_3": "enchantment ultimate wisdom 3"
+        }
+    ]
+}
